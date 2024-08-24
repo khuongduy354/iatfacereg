@@ -1,0 +1,76 @@
+Compare: ./dataset/gallery_faces/gallery_1_1.jpg and ./dataset/gallery_faces/gallery_1_2.jpg
+Result: {'verified': True, 'distance': 0.6503065468506921, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -1, 'y': 14, 'w': 62, 'h': 62, 'left_eye': None, 'right_eye': None}, 'img2': {'x': -21, 'y': 50, 'w': 264, 'h': 264, 'left_eye': (145, 154), 'right_eye': (59, 156)}}, 'time': 13.33}
+
+
+Compare: ./dataset/gallery_faces/gallery_2_1.jpg and ./dataset/gallery_faces/gallery_2_2.jpg
+Result: {'verified': True, 'distance': 0.4971107309806674, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -24, 'y': 56, 'w': 290, 'h': 290, 'left_eye': (167, 175), 'right_eye': (70, 179)}, 'img2': {'x': -19, 'y': 39, 'w': 189, 'h': 189, 'left_eye': (102, 118), 'right_eye': (45, 121)}}, 'time': 0.88}
+
+
+Compare: ./dataset/gallery_faces/gallery_3_1.jpg and ./dataset/gallery_faces/gallery_3_2.jpg
+Result: {'verified': True, 'distance': 0.5251582470329941, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -11, 'y': 53, 'w': 263, 'h': 263, 'left_eye': (163, 156), 'right_eye': (70, 153)}, 'img2': {'x': 5, 'y': 39, 'w': 148, 'h': 148, 'left_eye': (98, 97), 'right_eye': (50, 98)}}, 'time': 0.86}
+
+
+Compare: ./dataset/gallery_faces/gallery_4_1.jpg and ./dataset/gallery_faces/gallery_4_2.jpg
+Result: {'verified': True, 'distance': -2.220446049250313e-16, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 303, 'y': 267, 'w': 95, 'h': 95, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 303, 'y': 267, 'w': 95, 'h': 95, 'left_eye': None, 'right_eye': None}}, 'time': 1.98}
+
+
+Compare: ./dataset/gallery_faces/gallery_5_1.jpg and ./dataset/gallery_faces/gallery_5_2.jpg
+Result: {'verified': True, 'distance': 0.6377747205073603, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -15, 'y': 36, 'w': 254, 'h': 254, 'left_eye': (149, 139), 'right_eye': (70, 140)}, 'img2': {'x': 2, 'y': 17, 'w': 67, 'h': 67, 'left_eye': None, 'right_eye': None}}, 'time': 0.79}
+
+
+Compare: ./dataset/gallery_faces/gallery_6_1.jpg and ./dataset/gallery_faces/gallery_6_2.jpg
+Result: {'verified': False, 'distance': 0.7460189819092657, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -14, 'y': 55, 'w': 367, 'h': 367, 'left_eye': (228, 210), 'right_eye': (107, 207)}, 'img2': {'x': -12, 'y': 12, 'w': 127, 'h': 127, 'left_eye': (71, 65), 'right_eye': (31, 65)}}, 'time': 0.83}
+
+
+Compare: ./dataset/gallery_faces/gallery_1_1.jpg and ./dataset/gallery_faces/gallery_1_2.jpg
+Result: {'verified': True, 'distance': 0.6503065468506921, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -1, 'y': 14, 'w': 62, 'h': 62, 'left_eye': None, 'right_eye': None}, 'img2': {'x': -21, 'y': 50, 'w': 264, 'h': 264, 'left_eye': (145, 154), 'right_eye': (59, 156)}}, 'time': 4.79}
+
+
+Compare: ./dataset/gallery_faces/gallery_2_1.jpg and ./dataset/gallery_faces/gallery_2_2.jpg
+Result: {'verified': True, 'distance': 0.4971107309806674, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -24, 'y': 56, 'w': 290, 'h': 290, 'left_eye': (167, 175), 'right_eye': (70, 179)}, 'img2': {'x': -19, 'y': 39, 'w': 189, 'h': 189, 'left_eye': (102, 118), 'right_eye': (45, 121)}}, 'time': 0.83}
+
+
+Compare: ./dataset/gallery_faces/gallery_3_1.jpg and ./dataset/gallery_faces/gallery_3_2.jpg
+Result: {'verified': True, 'distance': 0.5251582470329941, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -11, 'y': 53, 'w': 263, 'h': 263, 'left_eye': (163, 156), 'right_eye': (70, 153)}, 'img2': {'x': 5, 'y': 39, 'w': 148, 'h': 148, 'left_eye': (98, 97), 'right_eye': (50, 98)}}, 'time': 0.78}
+
+
+Compare: ./dataset/gallery_faces/gallery_4_1.jpg and ./dataset/gallery_faces/gallery_4_2.jpg
+Result: {'verified': True, 'distance': -2.220446049250313e-16, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 303, 'y': 267, 'w': 95, 'h': 95, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 303, 'y': 267, 'w': 95, 'h': 95, 'left_eye': None, 'right_eye': None}}, 'time': 1.93}
+
+
+Compare: ./dataset/gallery_faces/gallery_5_1.jpg and ./dataset/gallery_faces/gallery_5_2.jpg
+Result: {'verified': True, 'distance': 0.6377747205073603, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -15, 'y': 36, 'w': 254, 'h': 254, 'left_eye': (149, 139), 'right_eye': (70, 140)}, 'img2': {'x': 2, 'y': 17, 'w': 67, 'h': 67, 'left_eye': None, 'right_eye': None}}, 'time': 0.74}
+
+
+Compare: ./dataset/gallery_faces/gallery_6_1.jpg and ./dataset/gallery_faces/gallery_6_2.jpg
+Result: {'verified': False, 'distance': 0.7460189819092657, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -14, 'y': 55, 'w': 367, 'h': 367, 'left_eye': (228, 210), 'right_eye': (107, 207)}, 'img2': {'x': -12, 'y': 12, 'w': 127, 'h': 127, 'left_eye': (71, 65), 'right_eye': (31, 65)}}, 'time': 0.84}
+
+
+Compare: ./dataset/gallery_faces/gallery_7_1.jpg and ./dataset/gallery_faces/gallery_7_2.jpg
+Result: {'verified': True, 'distance': 0.6054901588725791, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -15, 'y': 32, 'w': 183, 'h': 183, 'left_eye': (112, 112), 'right_eye': (48, 106)}, 'img2': {'x': -12, 'y': 68, 'w': 255, 'h': 255, 'left_eye': (164, 166), 'right_eye': (62, 171)}}, 'time': 0.77}
+
+
+Compare: ./dataset/gallery_faces/gallery_8_1.jpg and ./dataset/gallery_faces/gallery_8_2.jpg
+Result: {'verified': True, 'distance': 0.6549591690350867, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -2, 'y': 8, 'w': 58, 'h': 58, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 15, 'y': 39, 'w': 147, 'h': 147, 'left_eye': None, 'right_eye': None}}, 'time': 0.71}
+
+
+Compare: ./dataset/gallery_faces/gallery_9_1.jpg and ./dataset/gallery_faces/gallery_9_2.jpg
+Result: {'verified': True, 'distance': 0.5114352044691577, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -6, 'y': 31, 'w': 166, 'h': 166, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 0, 'y': 0, 'w': 256, 'h': 348, 'left_eye': None, 'right_eye': None}}, 'time': 0.75}
+
+
+Compare: ./dataset/gallery_faces/gallery_1_1.jpg and ./dataset/gallery_faces/gallery_1_2.jpg
+Result: {'verified': True, 'distance': 0.6503065468506921, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -1, 'y': 14, 'w': 62, 'h': 62, 'left_eye': None, 'right_eye': None}, 'img2': {'x': -21, 'y': 50, 'w': 264, 'h': 264, 'left_eye': (145, 154), 'right_eye': (59, 156)}}, 'time': 4.77}
+
+
+Compare: ./dataset/gallery_faces/gallery_1_1.jpg and ./dataset/gallery_faces/gallery_1_2.jpg
+Result: {'verified': True, 'distance': 0.6503065468506921, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': -1, 'y': 14, 'w': 62, 'h': 62, 'left_eye': None, 'right_eye': None}, 'img2': {'x': -21, 'y': 50, 'w': 264, 'h': 264, 'left_eye': (145, 154), 'right_eye': (59, 156)}}, 'time': 5.03}
+
+
+Compare: ./dataset/thien_old.jpg and ./dataset/thien_new.jpg
+Result: {'verified': False, 'distance': 0.8822348088847178, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 0, 'y': 0, 'w': 1153, 'h': 2048, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 214, 'y': 345, 'w': 626, 'h': 626, 'left_eye': (636, 607), 'right_eye': (414, 608)}}, 'time': 14.72}
+
+
+Compare: ./dataset/thien_old.jpg and ./dataset/thien_new.jpg
+Result: {'verified': True, 'distance': 0.25077100463638, 'threshold': 0.3, 'model': 'Facenet512', 'detector_backend': 'retinaface', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 240, 'y': 211, 'w': 257, 'h': 184, 'left_eye': (388, 355), 'right_eye': (416, 260)}, 'img2': {'x': 307, 'y': 337, 'w': 460, 'h': 673, 'left_eye': (643, 604), 'right_eye': (425, 605)}}, 'time': 52.9}
+
+

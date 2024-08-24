@@ -1,0 +1,9 @@
+./dataset/gallery_faces/gallery_1_1.jpg and ./dataset/gallery_faces/gallery_1_2.jpg not verify 
+error: Confirm that img.jpg exists./dataset/gallery_faces/gallery_2_1.jpg and ./dataset/gallery_faces/gallery_2_2.jpg not verify 
+error: Confirm that img.jpg exists./dataset/gallery_faces/gallery_3_1.jpg and ./dataset/gallery_faces/gallery_3_2.jpg not verify 
+error: Confirm that img.jpg exists./dataset/gallery_faces/gallery_4_1.jpg and ./dataset/gallery_faces/gallery_4_2.jpg not verify 
+error: Confirm that img.jpg exists./dataset/gallery_faces/gallery_5_1.jpg and ./dataset/gallery_faces/gallery_5_2.jpg not verify 
+error: Confirm that img.jpg exists./dataset/gallery_faces/gallery_6_1.jpg and ./dataset/gallery_faces/gallery_6_2.jpg not verify 
+error: Confirm that img.jpg exists./dataset/thien_old.jpg and ./dataset/thien_new.jpg not verify 
+error: Face could not be detected in ./dataset/thien_old.jpg.Please confirm that the picture is a face photo or consider to set enforce_detection param to False../dataset/thien_old.jpg and ./dataset/thien_new.jpg not verify 
+error: Face could not be detected in ./dataset/thien_old.jpg.Please confirm that the picture is a face photo or consider to set enforce_detection param to False.
